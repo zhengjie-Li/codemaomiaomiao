@@ -1,2 +1,4 @@
 print('hello codemao')
 
+import turtle
+myPen = turtle.Pen()
